@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+body {font-family: 'Handlee';
+font-size: 25px;
+font-weight: bolder;
+color: black;
+}
+
+body{
+    background-image: url(images/sweet2.jpg);
+    background-size: 100%;
+}
+
+.list-unstyled{
+    list-style: none;
+}
+
+.card-deck img{
+    width: 30%;
+    border-radius: 50%;
+}
+
+.card-deck{
+    margin-right: 70%;
+}
+
+.alert-link{
+    text-align: center;
+}
+
+.logo {
+   width: 40%;
+}
+
+.footer {
+    background-color: rgb(233, 207, 233);
+    background-attachment: fixed;
+    opacity: 40%;
+    text-align: center;
+ }
+
+
+
+ 
